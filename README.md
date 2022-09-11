@@ -1,5 +1,5 @@
 # WeaverUnlimited
-Recreation of popular of World-type game "Weaver"
+Recreation of popular of Wordle-type game "Weaver"
 
 Project Description:
 
